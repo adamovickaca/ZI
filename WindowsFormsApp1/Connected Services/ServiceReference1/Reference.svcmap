@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="143aee43-7885-468b-9c97-8d90c6fe0f5d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ProjekatZI/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="e668d8da-bfaf-4e77-9967-7a44cd3b56df" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ProjekatZI/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="14a38999-5bec-4fff-80ec-7fc742a46b40" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ProjekatZI/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="670dd436-4633-4453-843d-8ecb6488aeae" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ProjekatZI/Service1/mex" />
+    <MetadataFile FileName="ProjekatZI.xsd" MetadataType="Schema" ID="ca68f4bc-ebcc-4196-a539-b0b66a8b2951" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ProjekatZI/Service1/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="a2d9eaaa-a551-491e-a7c2-ce0a39538eb1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ProjekatZI/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

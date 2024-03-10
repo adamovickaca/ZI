@@ -1,0 +1,10 @@
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\bin\Debug\ProjekatZI.dll.config
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\bin\Debug\ProjekatZI.dll
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\bin\Debug\ProjekatZI.pdb
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\obj\Debug\ProjekatZI.csproj.AssemblyReference.cache
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\obj\Debug\ProjekatZI.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\obj\Debug\ProjekatZI.dll
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\obj\Debug\ProjekatZI.pdb
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Katarina\Zastita informacija\ProjekatZI\ProjekatZI\bin\Debug\BouncyCastle.Crypto.xml
